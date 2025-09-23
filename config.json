@@ -1,8 +1,9 @@
 {
-    "zee5": "bexo/babel.arthur",
-    "tataplay": "Babel/sorvo.bxo",
-    "jiotv": "*",
-    "sonyliv": "*",
-    "waves": "*",
-    "sunnxt": "*"
+    "zee5": "zee/bxo@arthur",
+    "tataplay": "tata/bxo@sorvo",
+    "jiotv": "jio/bxo@null",
+    "jioplus": "jioplus/bxo@null",
+    "sonyliv": "sonyliv/bxo@rasmalai",
+    "waves": "waves/bxo@pb",
+    "sunnxt": "sunnxt/bxo@strange"
 }
