@@ -1,8 +1,8 @@
 {
-    "cookie": "hdntl=exp=1760639465~acl=%2f*~data=hdntl~hmac=9b02aac0cbc2f278f54a35953e14a55d87ecd0a60d369570d444dd61103375cc",
-    "exp": "1760639465",
-    "expIN": "17-Oct-2025 12:01 AM",
+    "cookie": "hdntl=exp=1760643123~acl=%2f*~data=hdntl~hmac=c353eff4b9cd5dc2d7ae3a949fb394a669968d8f70d04df6d6ec394874ff8c1c",
+    "exp": "1760643123",
+    "expIN": "17-Oct-2025 01:02 AM",
     "timeLeft": "23 hours, 59 minutes",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/617.1.15 (KHTML, like Gecko) Version/16.6 Safari/617.1.15",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.4235.625 Safari/537.36 Edg/125.0.4235.625",
     "source": "zee5.com"
 }
