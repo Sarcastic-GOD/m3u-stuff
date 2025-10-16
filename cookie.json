@@ -1,12 +1,12 @@
 {
     "global": {
-        "cookie": "__hdnea__=st=1760628727~exp=1760715127~acl=/*~hmac=3d32745c66d37fe411eec0812586d0ca1459fe0449dd5dd3ae6381ad05230ddc",
-        "start": "16 Oct 2025 | 09:02 PM",
-        "expiry": "17 Oct 2025 | 09:02 PM"
+        "cookie": "__hdnea__=st=1760630408~exp=1760716808~acl=/*~hmac=325fe3de1a7d5b1ec78bf399a0dd4588ec5e192597cb5057e716fde2987d022b",
+        "start": "16 Oct 2025 | 09:30 PM",
+        "expiry": "17 Oct 2025 | 09:30 PM"
     },
     "ios": {
-        "cookie": "__hdnea__=st=1760628727~exp=1760715127~acl=/*~hmac=f51a023fe2072df59566a8f336e997051b3259cf3a31d4ff60461786c3ccc5db",
-        "start": "16 Oct 2025 | 09:02 PM",
-        "expiry": "17 Oct 2025 | 09:02 PM"
+        "cookie": "__hdnea__=st=1760630408~exp=1760716808~acl=/*~hmac=4ae30c94c4d9b868e79488cc73f4cd9f92f37410f22615d7f8cdf94f4c31f609",
+        "start": "16 Oct 2025 | 09:30 PM",
+        "expiry": "17 Oct 2025 | 09:30 PM"
     }
 }
